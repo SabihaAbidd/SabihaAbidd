@@ -138,17 +138,11 @@ A fully functional platformer game written entirely in x86 Assembly. Every pixel
 
 <br/>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SabihaAbidd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabihaAbidd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SabihaAbidd&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SabihaAbidd&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=0a3d62&hide_border=true" width="95%"/>
 
 </div>
 
