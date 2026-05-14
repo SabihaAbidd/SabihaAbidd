@@ -1,176 +1,180 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d9ff&height=120&section=header" width="100%"/>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sabiha%20Abid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20Intelligence%20from%20First%20Principles&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sabiha+Abid" alt="Sabiha Abid" />
-</h1>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%40+FAST-NUCES+Islamabad;AI+%26+Software+Developer;Simulation+Systems+%7C+Graph+Algorithms+%7C+Full-Stack;Building+things+that+solve+real+problems" alt="Subtitle" />
+<div align="center">
 
-<br/><br/>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   I don't use AI tools. I build them — from scratch.             │
+│   No libraries. No shortcuts. Just algorithms and intent.        │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabihaabid)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabihaabid2021@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
-[![Profile Views](https://komarev.com/ghpvc/?username=SabihaAbidd&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/SabihaAbidd)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sabihaabid.com-302b63?style=for-the-badge&logoColor=white)](https://sabihaabid.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabiha_Abid-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabihaabid)
+[![GitHub](https://img.shields.io/badge/GitHub-SabihaAbidd-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
+[![Email](https://img.shields.io/badge/Email-sabihaabid2021@gmail.com-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabihaabid2021@gmail.com)
 
 </div>
 
 ---
 
-## `> whoami`
+## `$ whoami`
 
-```cpp
-class SabihaAbid {
-public:
-    std::string role      = "CS Undergraduate @ FAST-NUCES Islamabad";
-    std::string building  = "Intelligent systems that solve real infrastructure problems";
-    std::string currently = "Shipping projects at the intersection of AI + Systems";
-
-    std::vector<std::string> focus     = { "Artificial Intelligence", "Simulation Systems", "Graph Algorithms" };
-    std::vector<std::string> languages = { "C++", "Python", "Java", "x86 Assembly" };
-    std::vector<std::string> interests = { "Urban Intelligence", "Optimization", "Real-Time Systems" };
-
-    std::string whoami() {
-        return "Engineer who builds things that actually work.";
-    }
-};
+```python
+sabiha = {
+    "role"       : "CS Undergrad @ FAST-NUCES Islamabad",
+    "origin"     : "Rawalpindi, Pakistan 🇵🇰",
+    "obsession"  : "AI algorithms built from zero — no black boxes",
+    "philosophy" : "If I can't implement it myself, I don't truly understand it.",
+    "currently"  : "Simulating cities, routing emergencies, and predicting chaos",
+    "awards"     : [
+        "Honhaar Undergraduate Scholar (National Merit)",
+        "4th in Pakistan — FBISE ICS",
+        "1st in College — ICS Group",
+    ],
+    "fun_fact"   : "I wrote physics and audio in x86 Assembly. Yes, really.",
+}
 ```
 
 ---
 
-## `> stack --verbose`
+## `$ ls -la ./projects`
+
+### 🧠 CityMind — AI-Powered Urban Intelligence Simulator
+> *What if a city could think?*
+
+Built a full-scale urban simulation platform that plans infrastructure, routes emergency vehicles, predicts flood zones, and maps crime risk — all powered by AI algorithms coded **from scratch**.
+
+```
+Algorithms Implemented (No Libraries. Zero.):
+├── CSP + AC-3 Constraint Propagation   →  Infrastructure zoning
+├── MRV Heuristic                       →  Planning optimization  
+├── Kruskal's MST                       →  City network design
+├── Genetic Algorithms                  →  Route evolution
+├── A* Search                           →  Emergency pathfinding
+├── K-Means Clustering                  →  Crime hotspot mapping
+└── Decision Trees                      →  Risk classification
+```
+`Python` `Flask` `Graph Theory` `Real-time Visualization`
+
+---
+
+### ⚡ Bijli Bachat — Smart Electricity Management
+> *Because 40% of Pakistan's households can't afford to waste power.*
+
+A full-stack energy intelligence platform for Pakistani homes — tracks consumption, estimates bills, detects over-usage, and supports solar net-metering. Built with a clean layered architecture.
+
+```
+Architecture:
+  UI Layer → Service Layer → DAO Layer → MySQL
+  
+Features:
+  ✦ Real-time appliance monitoring
+  ✦ Tariff alert engine
+  ✦ Solar net-metering calculator  
+  ✦ Monthly budget ceiling management
+  ✦ Interactive JavaFX analytics dashboard
+```
+`Java` `JavaFX` `MySQL` `DAO Pattern` `Software Architecture`
+
+---
+
+### 📊 CPI Network Analysis — Pakistan's Inflation Graph
+> *Turning economic data into a living network.*
+
+Modeled Pakistan's Consumer Price Index as a graph — cities as nodes, price similarities as edges. Applied centrality mathematics to trace how inflation spreads.
+
+```
+Math Stack:
+  ├── Z-score Normalization
+  ├── Cosine Similarity
+  ├── Degree / Closeness / Betweenness / Eigenvector Centrality
+  └── Temporal Partial-Order Analysis via Hasse Diagrams
+```
+`Python` `Graph Theory` `Network Science` `Economic Data`
+
+---
+
+### 🎮 Super Mario Bros — x86 Assembly Platformer
+> *Most people use game engines. I used opcodes.*
+
+A fully playable Mario-inspired platformer written in **pure x86 Assembly** — VGA graphics, real-time physics, collision detection, score tracking, and multi-channel audio. No engine. No external library. Just registers and raw memory.
+
+```asm
+; This is what most devs are afraid to touch.
+; I built a game in it.
+mov ax, 0013h     ; Set VGA 320x200 mode
+int 10h           ; Let's go.
+```
+`x86 Assembly` `VGA Graphics` `Low-Level Systems` `Hardware Audio`
+
+---
+
+## `$ cat ./skills.json`
+
+```json
+{
+  "languages": {
+    "fluent"     : ["C", "C++", "Python", "Java", "JavaScript"],
+    "low_level"  : ["x86 Assembly"],
+    "query"      : ["SQL / MySQL"]
+  },
+  "frameworks"   : ["Flask", "JavaFX", "SFML"],
+  "ai_from_scratch": [
+    "A* Search", "CSP + AC-3", "Genetic Algorithms",
+    "K-Means", "Decision Trees", "MST (Kruskal's)",
+    "Cosine Similarity", "Centrality Metrics"
+  ],
+  "tools"        : ["Git", "GitHub", "Linux/Ubuntu", "VS Code", "IntelliJ"],
+  "architecture" : ["Layered (DAO/Service/Model)", "Graph-based Simulation"],
+  "currently_learning": "Always something harder than yesterday"
+}
+```
+
+---
+
+## `$ cat ./achievements.log`
+
+```
+[NATIONAL]  Honhaar Undergraduate Scholar
+            ↳ Merit-based government scholarship | Top students across Pakistan
+
+[ACADEMIC]  4th Position — FBISE ICS (nationwide)
+            1st Position — ICS at college level
+            2nd Overall — College batch
+
+[LEADERSHIP] Assistant Head Girl — Quality School & College (2021–2022)
+```
+
+---
+
+## `$ git log --oneline ./philosophy`
+
+```
+a1b2c3d  Don't import understanding — build it
+f4e5d6c  Complexity is not impressive; clarity under complexity is
+9g8h7i6  Write code that teaches you something new every time
+3j2k1l0  Real AI devs know what happens under the hood
+```
+
+---
 
 <div align="center">
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-444444?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-**Frameworks & Tools**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## `> ls ./projects`
-
-<details>
-<summary><b>🧠 CityMind — AI-Powered Urban Intelligence Simulator</b></summary>
-<br/>
-
-> *What happens when you give a city a brain?*
-
-A full-scale urban intelligence and emergency response simulation platform. CityMind models an entire city as a living graph and reasons over it using classical AI and heuristic search.
-
-| Module | Approach |
-|---|---|
-| City graph construction | Custom adjacency-list graph engine |
-| Emergency routing | A\* pathfinding with dynamic edge weights |
-| Resource scheduling | Genetic algorithm optimizer |
-| Zone constraint solving | CSP + AC-3 + MRV heuristic |
-| District analysis | K-Means unsupervised clustering |
-| Disaster classification | Decision tree classifier |
-| Flood simulation | Event-driven wave propagation |
-| Monitoring | Real-time command-center dashboard |
-
-**The real challenge** wasn't building any one algorithm — it was integrating them into a single coherent simulation loop where every module reasons together.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
-
-</details>
-
----
-
-<details>
-<summary><b>⚡ Bijli Bachat — Smart Electricity Management System</b></summary>
-<br/>
-
-> *Designed for the realities of Pakistan's power grid — not a textbook scenario.*
-
-A domain-specific electricity management system built with awareness of Pakistan's tiered tariff structure, load-shedding patterns, and solar net-metering policy.
-
-| Feature | Detail |
-|---|---|
-| Energy tracking | Appliance-level consumption monitoring |
-| Bill estimation | NEPRA tariff slab engine |
-| Alert system | Threshold-based tariff warnings |
-| Solar module | Net-metering credit calculation |
-| Analytics | JavaFX dashboard with historical trends |
-| Architecture | Layered MVC with clean separation of concerns |
-
-**Domain insight:** Pakistani electricity billing isn't just kWh — it's slabs, peak hours, fuel adjustments, and net-metering credits. Generic solutions don't apply here.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
-
-</details>
-
----
-
-<details>
-<summary><b>🎮 Super Mario Bros — Built in Pure x86 Assembly</b></summary>
-<br/>
-
-> *No engine. No framework. Just registers, interrupts, and VGA memory.*
-
-A fully functional platformer game written entirely in x86 Assembly. Every pixel drawn by hand. Every collision computed in raw arithmetic.
-
-- Custom VGA mode 13h graphics renderer
-- Real-time movement with physics — velocity, gravity, friction
-- Pixel-perfect collision detection via bounding box logic
-- Hardware interrupt-driven input handling
-- Multi-channel PC speaker sound integration
-- All game state managed directly in CPU registers and memory
-
-**What this proves:** The ability to reason at the hardware level — memory layout, interrupt tables, CPU cycles. A skill most developers never develop.
-
-</details>
-
----
-
-## `> cat ./principles.txt`
-
 ```
-01  Write code that solves real problems, not impressive-sounding ones.
-02  Understand the algorithm before reaching for the library.
-03  If it runs, it's a start. If it's correct, it's engineering.
-04  Hardware knowledge makes every abstraction more powerful.
-05  Domain depth beats technical breadth — know the problem space.
+                    ◆ Currently studying at FAST-NUCES Islamabad ◆
+              ◆ Open to research collaborations & impactful opportunities ◆
 ```
 
----
+**"The best way to understand intelligence is to build it — neuron by neuron, node by node."**
 
-## `> ./contact.sh`
-
-<div align="center">
-
-| Channel | Link |
-|---|---|
-| 📧 Email | [sabihaabid2021@gmail.com](mailto:sabihaabid2021@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/sabihaabid](https://www.linkedin.com/in/sabihaabid) |
-| 🐙 GitHub | [github.com/SabihaAbidd](https://github.com/SabihaAbidd) |
-
-<br/>
-
-*Open to internship opportunities, research collaborations, and interesting problems.*
-
-<br/>
-
-```
-> Always building. Always learning. Always shipping.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 </div>
