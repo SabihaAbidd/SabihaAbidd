@@ -18,11 +18,11 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=AI+Engineer+%E2%80%94+Systems+Builder+%E2%80%94+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;CS+Undergrad+%40+FAST-NUCES+Islamabad;I+don't+import+intelligence.+I+engineer+it." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=AI+Engineer+%E2%80%94+Systems+Builder+%F0%9F%87%B5%F0%9F%87%B0;CS+Undergrad+%40+FAST-NUCES+Islamabad;I+don't+import+intelligence.+I+engineer+it." />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈%20PORTFOLIO-sabihaabid.com-00b4d8?style=for-the-badge&logoColor=white)](https://sabihaabid.com)
+[![Portfolio](https://img.shields.io/badge/◈%20PORTFOLIO-sabihaabid.com-00b4d8?style=for-the-badge&logoColor=white)](https://sabihaabid.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/◈%20LINKEDIN-Sabiha%20Abid-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabihaabid)
 [![GitHub](https://img.shields.io/badge/◈%20GITHUB-SabihaAbidd-f72585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
 [![Email](https://img.shields.io/badge/◈%20EMAIL-sabihaabid2021-7209b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabihaabid2021@gmail.com)
