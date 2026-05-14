@@ -15,26 +15,27 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
 [![Profile Views](https://komarev.com/ghpvc/?username=SabihaAbidd&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/SabihaAbidd)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a3d62&height=2&width=60%" />
-
 </div>
 
 ---
 
 ## `> whoami`
 
-```python
-class SabihaAbid:
-    def __init__(self):
-        self.role        = "CS Undergraduate @ FAST-NUCES Islamabad"
-        self.focus       = ["Artificial Intelligence", "Simulation Systems", "Graph Algorithms"]
-        self.building    = "Intelligent systems that solve real infrastructure problems"
-        self.languages   = ["C++", "Python", "Java", "x86 Assembly"]
-        self.interests   = ["Urban Intelligence", "Optimization", "Real-Time Systems", "AI"]
-        self.currently   = "Shipping projects at the intersection of AI + Systems"
+```cpp
+class SabihaAbid {
+public:
+    std::string role      = "CS Undergraduate @ FAST-NUCES Islamabad";
+    std::string building  = "Intelligent systems that solve real infrastructure problems";
+    std::string currently = "Shipping projects at the intersection of AI + Systems";
 
-    def __repr__(self):
-        return "Engineer who builds things that actually work."
+    std::vector<std::string> focus     = { "Artificial Intelligence", "Simulation Systems", "Graph Algorithms" };
+    std::vector<std::string> languages = { "C++", "Python", "Java", "x86 Assembly" };
+    std::vector<std::string> interests = { "Urban Intelligence", "Optimization", "Real-Time Systems" };
+
+    std::string whoami() {
+        return "Engineer who builds things that actually work.";
+    }
+};
 ```
 
 ---
@@ -165,6 +166,10 @@ A fully functional platformer game written entirely in x86 Assembly. Every pixel
 *Open to internship opportunities, research collaborations, and interesting problems.*
 
 <br/>
+
+```
+> Always building. Always learning. Always shipping.
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer" width="100%"/>
 
