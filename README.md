@@ -19,9 +19,9 @@
 
 </div>
 
-<br/>
+---
 
-## About Me
+## `> whoami`
 
 ```python
 class SabihaAbid:
@@ -37,9 +37,9 @@ class SabihaAbid:
         return "Engineer who builds things that actually work."
 ```
 
-<br/>
+---
 
-## Tech Stack
+## `> stack --verbose`
 
 <div align="center">
 
@@ -61,9 +61,9 @@ class SabihaAbid:
 
 </div>
 
-<br/>
+---
 
-## Featured Projects
+## `> ls ./projects`
 
 <details>
 <summary><b>🧠 CityMind — AI-Powered Urban Intelligence Simulator</b></summary>
@@ -136,28 +136,33 @@ A fully functional platformer game written entirely in x86 Assembly. Every pixel
 
 </details>
 
-<br/>
+---
 
-## GitHub Activity
+## `> cat ./principles.txt`
+
+```
+01  Write code that solves real problems, not impressive-sounding ones.
+02  Understand the algorithm before reaching for the library.
+03  If it runs, it's a start. If it's correct, it's engineering.
+04  Hardware knowledge makes every abstraction more powerful.
+05  Domain depth beats technical breadth — know the problem space.
+```
+
+---
+
+## `> ./contact.sh`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SabihaAbidd&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=0a3d62&hide_border=true" width="95%"/>
-
-</div>
+| Channel | Link |
+|---|---|
+| 📧 Email | [sabihaabid2021@gmail.com](mailto:sabihaabid2021@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/sabihaabid](https://www.linkedin.com/in/sabihaabid) |
+| 🐙 GitHub | [github.com/SabihaAbidd](https://github.com/SabihaAbidd) |
 
 <br/>
-
-## Let's Connect
-
-<div align="center">
 
 *Open to internship opportunities, research collaborations, and interesting problems.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabihaabid)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabihaabid2021@gmail.com)
 
 <br/>
 
