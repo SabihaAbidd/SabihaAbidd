@@ -2,18 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a3d62,60:00b4d8,100:f72585&height=120&section=header&animation=fadeIn" />
 
-```
-  ███████╗ █████╗ ██████╗ ██╗██╗  ██╗ █████╗      █████╗ ██████╗ ██╗██████╗
-  ██╔════╝██╔══██╗██╔══██╗██║██║  ██║██╔══██╗    ██╔══██╗██╔══██╗██║██╔══██╗
-  ███████╗███████║██████╔╝██║███████║███████║    ███████║██████╔╝██║██║  ██║
-  ╚════██║██╔══██║██╔══██╗██║██╔══██║██╔══██║    ██╔══██║██╔══██╗██║██║  ██║
-  ███████║██║  ██║██████╔╝██║██║  ██║██║  ██║    ██║  ██║██████╔╝██║██████╔╝
-  ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═════╝ ╚═╝╚═════╝
-```
-
-```
- ░▒▓ CS UNDERGRAD  ·  AI RESEARCHER  ·  SYSTEMS BUILDER  ·  PAKISTAN 🇵🇰 ▓▒░
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=SABIHA+ABID;AI+Engineer+%7C+Systems+Builder;Algorithms+From+First+Principles" />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sabihaabid.com-00b4d8?style=for-the-badge&logoColor=white)](https://sabihaabid.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabiha_Abid-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabihaabid)
@@ -24,38 +13,60 @@
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   While others import intelligence  —  I architect it.         ║
-║   Every algorithm below was written from first principles.     ║
-║   No black boxes. No abstractions I didn't build myself.       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 〔 About 〕
 
-Undergraduate at **FAST-NUCES Islamabad**. I build AI algorithms from scratch — no wrappers, no shortcuts. Everything below was implemented by hand.
+Computer Science undergraduate at **FAST-NUCES Islamabad**, focused on AI systems, algorithm engineering, and large-scale problem solving.
 
-> 🏅 **Honhaar National Scholar** &nbsp;·&nbsp; 4th in Pakistan — FBISE ICS &nbsp;·&nbsp; 1st in College
+I build intelligent systems from first principles — combining optimization, graph theory, search algorithms, simulation, and full-stack engineering to solve real-world problems. My work spans AI & machine learning, systems programming, graph & network analysis, and backend architecture.
+
+Currently interested in autonomous systems, computational optimization, urban intelligence, and scalable AI infrastructure.
 
 ---
 
-## 〔 Projects 〕
+## 〔 Current Focus 〕
 
-| | Project | What it does | Stack |
-|:---:|:---|:---|:---|
-| 🏙️ | **CityMind** | AI urban simulator — flood mapping, crime heatmaps, emergency routing, MST infrastructure. 7 algorithms built from scratch. | `Python` `Flask` `A*` `CSP` `K-Means` `Genetic Algo` |
-| ⚡ | **Bijli Bachat** | Smart electricity platform for Pakistani homes — live tariff alerts, appliance tracking, solar net-metering. | `Java` `JavaFX` `MySQL` `DAO Architecture` |
-| 📈 | **CPI Network Analysis** | Pakistan's inflation modeled as a graph. Cosine similarity edges, centrality analysis, Hasse diagrams for propagation tracing. | `Python` `Graph Theory` `Network Science` |
-| 🎮 | **Super Mario — Assembly** | Fully playable platformer in pure x86 Assembly. VGA graphics, physics, collision, audio. Zero libraries. | `x86 Assembly` `VGA Mode 13h` `Hardware Audio` |
+- 🧠 &nbsp; AI Simulation Systems & Optimization Algorithms
+- ⚙️ &nbsp; Systems-Level Engineering & Low-Level Programming
+- 📊 &nbsp; Applied Machine Learning & Graph Intelligence
+- 🏗️ &nbsp; Intelligent Infrastructure & Computational Problem Solving
+
+---
+
+## 〔 Engineered Systems 〕
+
+### 🏙️ CityMind — AI Urban Intelligence Simulator
+
+Designed a large-scale urban simulation engine capable of modeling flood propagation, emergency response routing, crime density analysis, resource allocation, and infrastructure optimization — built entirely from first principles on a shared city graph architecture.
+
+**Implemented from scratch:** A\* Pathfinding &nbsp;·&nbsp; CSP + AC-3 Constraint Solving &nbsp;·&nbsp; Genetic Optimization &nbsp;·&nbsp; Kruskal's MST &nbsp;·&nbsp; K-Means Clustering &nbsp;·&nbsp; Decision Trees &nbsp;·&nbsp; MRV Heuristic
+
+**Stack:** `Python` `Flask` `Graph Theory` `Optimization Algorithms`
+
+---
+
+### ⚡ Bijli Bachat — Smart Energy Analytics Platform
+
+Built a full-stack electricity monitoring system for Pakistani households featuring appliance-level tracking, tariff forecasting, solar net-metering, and intelligent consumption analysis. Designed with a modular DAO-based architecture and a scalable persistence layer.
+
+**Stack:** `Java` `JavaFX` `MySQL` `DAO Architecture` `OOP`
+
+---
+
+### 📈 CPI Network Analysis — Economic Graph Intelligence
+
+Modeled inflation relationships across Pakistan using graph-based network analysis and similarity propagation techniques. Applied centrality metrics to identify economic hubs and traced inflation propagation patterns over time via dependency mapping and Hasse diagram structures.
+
+**Implemented:** Cosine Similarity Networks &nbsp;·&nbsp; Degree / Closeness / Betweenness / Eigenvector Centrality &nbsp;·&nbsp; Z-score Normalization &nbsp;·&nbsp; Temporal Partial-Order Analysis
+
+**Stack:** `Python` `Network Science` `Graph Analytics`
+
+---
+
+### 🎮 Super Mario — x86 Assembly Platformer
+
+Developed a fully playable platformer directly in x86 Assembly with custom rendering pipelines, VGA graphics handling, real-time collision systems, gravity physics simulation, and low-level multi-channel audio management. Zero external libraries.
+
+**Stack:** `x86 Assembly` `VGA Mode 13h` `Hardware-Level Programming`
 
 ---
 
@@ -78,31 +89,11 @@ Undergraduate at **FAST-NUCES Islamabad**. I build AI algorithms from scratch �
 
 </div>
 
-```
-  AI Built From Scratch:
-  A* Search  ·  CSP + AC-3  ·  MRV  ·  Kruskal's MST  ·  Genetic Algorithms
-  K-Means  ·  Decision Trees  ·  Cosine Similarity  ·  Graph Centrality
-```
-
----
-
-## 〔 GitHub Activity 〕
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabihaAbidd&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00b4d8&icon_color=f72585&text_color=90e0ef&ring_color=7209b7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabihaAbidd&layout=compact&hide_border=true&bg_color=0d0221&title_color=00b4d8&text_color=90e0ef)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SabihaAbidd&theme=radical&hide_border=true&background=0d0221&ring=f72585&fire=00b4d8&currStreakLabel=00b4d8)
-
-</div>
-
 ---
 
 <div align="center">
 
-*"The deepest understanding comes from building, not borrowing."*
+*"Engineering is the art of turning complexity into systems that scale."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,40:7209b7,70:00b4d8,100:0d0221&height=130&section=footer&animation=fadeIn" />
 
