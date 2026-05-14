@@ -1,76 +1,108 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a3d62,60:00b4d8,100:f72585&height=120&section=header&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:0a0a2e,70:00b4d8,100:f72585&height=140&section=header&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=SABIHA+ABID;AI+Engineer+%7C+Systems+Builder;Algorithms+From+First+Principles" />
+```
+███████╗ █████╗ ██████╗ ██╗██╗  ██╗ █████╗
+██╔════╝██╔══██╗██╔══██╗██║██║  ██║██╔══██╗
+███████╗███████║██████╔╝██║███████║███████║
+╚════██║██╔══██║██╔══██╗██║██╔══██║██╔══██║
+███████║██║  ██║██████╔╝██║██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sabihaabid.com-00b4d8?style=for-the-badge&logoColor=white)](https://sabihaabid.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabiha_Abid-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabihaabid)
-[![GitHub](https://img.shields.io/badge/GitHub-SabihaAbidd-f72585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
-[![Email](https://img.shields.io/badge/Email-sabihaabid2021-7209b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabihaabid2021@gmail.com)
+ █████╗ ██████╗ ██╗██████╗
+██╔══██╗██╔══██╗██║██╔══██╗
+███████║██████╔╝██║██║  ██║
+██╔══██║██╔══██╗██║██║  ██║
+██║  ██║██████╔╝██║██████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═╝╚═════╝
+```
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%9A%A1+Systems+Builder+%E2%9A%A1+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Algorithms+built+from+zero.+No+wrappers.+No+shortcuts.;CS+Undergrad+%40+FAST-NUCES+Islamabad)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-sabihaabid.com-00b4d8?style=for-the-badge&logoColor=white)](https://sabihaabid.com)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Sabiha_Abid-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabihaabid)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-SabihaAbidd-f72585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
+[![Email](https://img.shields.io/badge/◈_EMAIL-Contact_Me-7209b7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabihaabid2021@gmail.com)
 
 </div>
 
----
-
-## 〔 About 〕
-
-Computer Science undergraduate at **FAST-NUCES Islamabad**, focused on AI systems, algorithm engineering, and large-scale problem solving.
-
-I build intelligent systems from first principles — combining optimization, graph theory, search algorithms, simulation, and full-stack engineering to solve real-world problems. My work spans AI & machine learning, systems programming, graph & network analysis, and backend architecture.
-
-Currently interested in autonomous systems, computational optimization, urban intelligence, and scalable AI infrastructure.
+<br/>
 
 ---
 
-## 〔 Current Focus 〕
+## ◈ &nbsp; WHO AM I
 
-- 🧠 &nbsp; AI Simulation Systems & Optimization Algorithms
-- ⚙️ &nbsp; Systems-Level Engineering & Low-Level Programming
-- 📊 &nbsp; Applied Machine Learning & Graph Intelligence
-- 🏗️ &nbsp; Intelligent Infrastructure & Computational Problem Solving
-
----
-
-## 〔 Engineered Systems 〕
-
-### 🏙️ CityMind — AI Urban Intelligence Simulator
-
-Designed a large-scale urban simulation engine capable of modeling flood propagation, emergency response routing, crime density analysis, resource allocation, and infrastructure optimization — built entirely from first principles on a shared city graph architecture.
-
-**Implemented from scratch:** A\* Pathfinding &nbsp;·&nbsp; CSP + AC-3 Constraint Solving &nbsp;·&nbsp; Genetic Optimization &nbsp;·&nbsp; Kruskal's MST &nbsp;·&nbsp; K-Means Clustering &nbsp;·&nbsp; Decision Trees &nbsp;·&nbsp; MRV Heuristic
-
-**Stack:** `Python` `Flask` `Graph Theory` `Optimization Algorithms`
+CS undergrad at **FAST-NUCES Islamabad** building things that most people just import.
+I design AI systems, simulation engines, and low-level programs from the ground up —
+graph theory, optimization algorithms, full-stack platforms, and raw Assembly.
+Not because I have to. Because understanding the machine completely is the only way I know how to work.
 
 ---
 
-### ⚡ Bijli Bachat — Smart Energy Analytics Platform
+## ◈ &nbsp; CURRENT FOCUS
 
-Built a full-stack electricity monitoring system for Pakistani households featuring appliance-level tracking, tariff forecasting, solar net-metering, and intelligent consumption analysis. Designed with a modular DAO-based architecture and a scalable persistence layer.
-
-**Stack:** `Java` `JavaFX` `MySQL` `DAO Architecture` `OOP`
-
----
-
-### 📈 CPI Network Analysis — Economic Graph Intelligence
-
-Modeled inflation relationships across Pakistan using graph-based network analysis and similarity propagation techniques. Applied centrality metrics to identify economic hubs and traced inflation propagation patterns over time via dependency mapping and Hasse diagram structures.
-
-**Implemented:** Cosine Similarity Networks &nbsp;·&nbsp; Degree / Closeness / Betweenness / Eigenvector Centrality &nbsp;·&nbsp; Z-score Normalization &nbsp;·&nbsp; Temporal Partial-Order Analysis
-
-**Stack:** `Python` `Network Science` `Graph Analytics`
+```
+  ⚡  AI Simulation & Autonomous Systems
+  ⚡  Computational Optimization & Graph Intelligence  
+  ⚡  Systems-Level Engineering
+  ⚡  Scalable Backend Architecture
+  ⚡  Applied ML from First Principles
+```
 
 ---
 
-### 🎮 Super Mario — x86 Assembly Platformer
+## ◈ &nbsp; ENGINEERED SYSTEMS
 
-Developed a fully playable platformer directly in x86 Assembly with custom rendering pipelines, VGA graphics handling, real-time collision systems, gravity physics simulation, and low-level multi-channel audio management. Zero external libraries.
+<br/>
 
-**Stack:** `x86 Assembly` `VGA Mode 13h` `Hardware-Level Programming`
+### ▸ &nbsp; 🏙️ &nbsp; CITYMIND — AI Urban Intelligence Simulator
+
+> *A command center for cities that don't exist yet.*
+
+Simulation platform that models an entire city's nervous system — flood zones, emergency routing, crime risk mapping, resource allocation, and infrastructure planning. Every algorithm implemented from scratch on a shared graph architecture.
+
+**Built from zero →** &nbsp; `A* Search` &nbsp; `CSP + AC-3` &nbsp; `MRV` &nbsp; `Genetic Algorithms` &nbsp; `Kruskal's MST` &nbsp; `K-Means` &nbsp; `Decision Trees`
+
+**Stack →** &nbsp; `Python` &nbsp; `Flask` &nbsp; `Graph Theory` &nbsp; `Live Dashboard`
+
+<br/>
+
+### ▸ &nbsp; ⚡ &nbsp; BIJLI BACHAT — Smart Energy Analytics
+
+> *Because 40% of Pakistani households can't afford to guess.*
+
+Full-stack electricity intelligence platform — appliance-level tracking, live tariff alerts, solar net-metering, budget ceiling management, and consumption forecasting. Clean modular DAO architecture throughout.
+
+**Stack →** &nbsp; `Java` &nbsp; `JavaFX` &nbsp; `MySQL` &nbsp; `DAO Pattern` &nbsp; `OOP`
+
+<br/>
+
+### ▸ &nbsp; 📈 &nbsp; CPI NETWORK — Economic Graph Intelligence
+
+> *Inflation isn't random. It propagates. This maps exactly how.*
+
+Modeled Pakistan's Consumer Price Index as a weighted graph — cities as nodes, price similarity as edges. Traced inflation propagation across time using centrality analysis and Hasse diagram structures.
+
+**Built from zero →** &nbsp; `Cosine Similarity` &nbsp; `Z-score Normalization` &nbsp; `Eigenvector / Betweenness / Closeness Centrality` &nbsp; `Temporal Partial-Order Analysis`
+
+**Stack →** &nbsp; `Python` &nbsp; `Network Science` &nbsp; `Graph Analytics`
+
+<br/>
+
+### ▸ &nbsp; 🎮 &nbsp; SUPER MARIO — x86 Assembly Platformer
+
+> *Most people use a game engine. I used opcodes.*
+
+Fully playable Mario-inspired platformer written in pure x86 Assembly. Custom VGA rendering pipeline, real-time gravity physics, collision detection, score tracking, multi-channel audio. Zero libraries. Zero abstractions. Every byte deliberate.
+
+**Stack →** &nbsp; `x86 Assembly` &nbsp; `VGA Mode 13h` &nbsp; `Hardware Audio` &nbsp; `Raw Memory`
 
 ---
 
-## 〔 Skills 〕
+## ◈ &nbsp; ARSENAL
 
 <div align="center">
 
@@ -79,7 +111,7 @@ Developed a fully playable platformer directly in x86 Assembly with custom rende
 ![Python](https://img.shields.io/badge/Python-7209b7?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f72585?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-480ca8?style=flat-square&logo=javascript&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86_Assembly-0d0221?style=flat-square&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-0d0221?style=flat-square&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-023e8a?style=flat-square&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-00b4d8?style=flat-square&logo=flask&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-f72585?style=flat-square&logoColor=white)
@@ -93,7 +125,9 @@ Developed a fully playable platformer directly in x86 Assembly with custom rende
 
 <div align="center">
 
-*"Engineering is the art of turning complexity into systems that scale."*
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=7209B7&center=true&vCenter=true&width=700&lines=Open+to+research+%C2%B7+internships+%C2%B7+anything+ambitious;Especially+anything+that+shouldn't+exist+yet.)
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,40:7209b7,70:00b4d8,100:0d0221&height=130&section=footer&animation=fadeIn" />
 
