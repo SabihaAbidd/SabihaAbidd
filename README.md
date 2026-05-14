@@ -1,28 +1,27 @@
 <div align="center">
 
-```
-███████╗ █████╗ ██████╗ ██╗██╗  ██╗ █████╗      █████╗ ██████╗ ██╗██████╗
-██╔════╝██╔══██╗██╔══██╗██║██║  ██║██╔══██╗    ██╔══██╗██╔══██╗██║██╔══██╗
-███████╗███████║██████╔╝██║███████║███████║    ███████║██████╔╝██║██║  ██║
-╚════██║██╔══██║██╔══██╗██║██╔══██║██╔══██║    ██╔══██║██╔══██╗██║██║  ██║
-███████║██║  ██║██████╔╝██║██║  ██║██║  ██║    ██║  ██║██████╔╝██║██████╔╝
-╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═════╝ ╚═╝╚═════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d9ff&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Systems+Engineer+%40+FAST-NUCES;Builder+of+Intelligent+Systems;Graph+Algorithms+%7C+Simulation+%7C+Full-Stack;Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sabiha+Abid" alt="Sabiha Abid" />
+</h1>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Undergraduate+%40+FAST-NUCES+Islamabad;AI+%26+Software+Developer;Simulation+Systems+%7C+Graph+Algorithms+%7C+Full-Stack;Building+things+that+solve+real+problems" alt="Subtitle" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabihaabid)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabihaabid2021@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
 [![Profile Views](https://komarev.com/ghpvc/?username=SabihaAbidd&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/SabihaAbidd)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a3d62&height=2&width=60%" />
+
 </div>
 
----
+<br/>
 
-## `> whoami`
+## About Me
 
 ```python
 class SabihaAbid:
@@ -38,9 +37,9 @@ class SabihaAbid:
         return "Engineer who builds things that actually work."
 ```
 
----
+<br/>
 
-## `> stack --verbose`
+## Tech Stack
 
 <div align="center">
 
@@ -51,27 +50,20 @@ class SabihaAbid:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-444444?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-**AI / Algorithms**
-
-![A* Search](https://img.shields.io/badge/A*_Pathfinding-00D9FF?style=for-the-badge)
-![Genetic Algorithms](https://img.shields.io/badge/Genetic_Algorithms-7B2FBE?style=for-the-badge)
-![K--Means](https://img.shields.io/badge/K--Means_Clustering-FF6B6B?style=for-the-badge)
-![CSP / AC-3](https://img.shields.io/badge/CSP_%2F_AC--3-F5A623?style=for-the-badge)
-![Decision Trees](https://img.shields.io/badge/Decision_Trees-2ECC71?style=for-the-badge)
-
 **Frameworks & Tools**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
----
+<br/>
 
-## `> ls ./projects`
+## Featured Projects
 
 <details>
 <summary><b>🧠 CityMind — AI-Powered Urban Intelligence Simulator</b></summary>
@@ -79,29 +71,29 @@ class SabihaAbid:
 
 > *What happens when you give a city a brain?*
 
-A full-scale urban intelligence and emergency response simulation platform built from the ground up. CityMind models an entire city as a living graph and reasons over it using classical AI and modern heuristics.
+A full-scale urban intelligence and emergency response simulation platform. CityMind models an entire city as a living graph and reasons over it using classical AI and heuristic search.
 
-| Module | Technique |
+| Module | Approach |
 |---|---|
 | City graph construction | Custom adjacency-list graph engine |
 | Emergency routing | A\* pathfinding with dynamic edge weights |
 | Resource scheduling | Genetic algorithm optimizer |
 | Zone constraint solving | CSP + AC-3 + MRV heuristic |
-| District clustering | K-Means unsupervised learning |
+| District analysis | K-Means unsupervised clustering |
 | Disaster classification | Decision tree classifier |
 | Flood simulation | Event-driven wave propagation |
 | Monitoring | Real-time command-center dashboard |
 
-**What makes it hard:** Every module had to integrate into a single coherent simulation loop. The real challenge wasn't building any one algorithm — it was making them all reason together.
+**The real challenge** wasn't building any one algorithm — it was integrating them into a single coherent simulation loop where every module reasons together.
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
 
 </details>
 
 ---
 
 <details>
-<summary><b>⚡ Bijli Bachat — Smart Electricity Management for Pakistani Households</b></summary>
+<summary><b>⚡ Bijli Bachat — Smart Electricity Management System</b></summary>
 <br/>
 
 > *Designed for the realities of Pakistan's power grid — not a textbook scenario.*
@@ -117,9 +109,9 @@ A domain-specific electricity management system built with awareness of Pakistan
 | Analytics | JavaFX dashboard with historical trends |
 | Architecture | Layered MVC with clean separation of concerns |
 
-**Domain insight:** Built with an understanding that Pakistani electricity billing isn't just kWh — it's slabs, peak hours, fuel adjustments, and net-metering credits. Generic solutions don't apply here.
+**Domain insight:** Pakistani electricity billing isn't just kWh — it's slabs, peak hours, fuel adjustments, and net-metering credits. Generic solutions don't apply here.
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabihaAbidd)
 
 </details>
 
@@ -131,10 +123,10 @@ A domain-specific electricity management system built with awareness of Pakistan
 
 > *No engine. No framework. Just registers, interrupts, and VGA memory.*
 
-A fully functional platformer game written entirely in x86 Assembly — no libraries, no abstractions. Every pixel drawn by hand. Every collision computed in raw arithmetic.
+A fully functional platformer game written entirely in x86 Assembly. Every pixel drawn by hand. Every collision computed in raw arithmetic.
 
 - Custom VGA mode 13h graphics renderer
-- Real-time movement with physics (velocity, gravity, friction)
+- Real-time movement with physics — velocity, gravity, friction
 - Pixel-perfect collision detection via bounding box logic
 - Hardware interrupt-driven input handling
 - Multi-channel PC speaker sound integration
@@ -144,56 +136,37 @@ A fully functional platformer game written entirely in x86 Assembly — no libra
 
 </details>
 
----
+<br/>
 
-## `> git log --stats`
+## GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SabihaAbidd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="180"/>
-
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabihaAbidd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" height="180"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SabihaAbidd&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" height="180"/>
 
 </div>
 
----
+<br/>
 
-## `> cat ./principles.txt`
-
-```
-01  Write code that solves real problems, not impressive-sounding ones.
-02  Understand the algorithm before reaching for the library.
-03  If it runs, it's a start. If it's correct, it's engineering.
-04  Hardware knowledge makes every abstraction more powerful.
-05  Domain depth beats technical breadth — know the problem space.
-```
-
----
-
-## `> ./contact.sh`
+## Let's Connect
 
 <div align="center">
-
-| Channel | Link |
-|---|---|
-| 📧 Email | [sabihaabid2021@gmail.com](mailto:sabihaabid2021@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/sabihaabid](https://www.linkedin.com/in/sabihaabid) |
-| 🐙 GitHub | [github.com/SabihaAbidd](https://github.com/SabihaAbidd) |
-
-<br/>
 
 *Open to internship opportunities, research collaborations, and interesting problems.*
 
 <br/>
 
-```
-> Always building. Always learning. Always shipping.
-```
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabihaabid)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabihaabid2021@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
