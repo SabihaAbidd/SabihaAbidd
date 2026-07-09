@@ -36,7 +36,7 @@ CS undergraduate at **FAST-NUCES Islamabad** with a focus on AI systems, algorit
 
 My work is grounded in first-principles thinking. I implement algorithms from scratch not as an exercise, but because understanding the internals is what separates engineers who debug from engineers who architect.
 
-Currently exploring: autonomous systems, computational optimization, and scalable AI infrastructure.
+Currently exploring: autonomous systems, computational optimization, and scalable AI infrastructure
 
 ---
 
