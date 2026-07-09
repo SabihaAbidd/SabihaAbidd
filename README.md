@@ -36,7 +36,7 @@ CS undergraduate at **FAST-NUCES Islamabad** with a focus on AI systems, algorit
 
 My work is grounded in first-principles thinking. I implement algorithms from scratch not as an exercise, but because understanding the internals is what separates engineers who debug from engineers who architect.
 
-Currently exploring: autonomous systems, computational optimization, and scalable AI infrastructure
+Currently exploring: autonomous systems, computational optimization, and scalable AI infrastructure.
 
 ---
 
@@ -80,7 +80,7 @@ Pakistan's Consumer Price Index modeled as a weighted graph — cities as nodes,
 
 ### 🎮 &nbsp; Super Mario — x86 Assembly Platformer
 
-Fully playable Mario-inspired platformer written in pure x86 Assembly. Custom VGA rendering pipeline, real-time gravity and collision physics, score tracking, and multi-channel audio — zero external libraries, zero abstractions. Every instruction deliberate
+Fully playable Mario-inspired platformer written in pure x86 Assembly. Custom VGA rendering pipeline, real-time gravity and collision physics, score tracking, and multi-channel audio — zero external libraries, zero abstractions. Every instruction deliberate.
 
 **Stack →** `x86 Assembly` `VGA Mode 13h` `Hardware Audio` `Raw Memory Management`
 
