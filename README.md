@@ -40,7 +40,7 @@ Currently exploring: autonomous systems, computational optimization, and scalabl
 
 ---
 
-## ◈ &nbsp; ENGINEERED SYSTEMS
+## ◈ &nbsp; ENGINEERED SYSTEM
 
 <br/>
 
